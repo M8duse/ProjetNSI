@@ -1,4 +1,4 @@
 def oui():
     return 'Jules lbp'
 
-oui()
+print(oui())
